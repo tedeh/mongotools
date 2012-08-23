@@ -1,7 +1,7 @@
 {
-  "name": "mongodb-tools",
+  "name": "mongotools",
   "version": "1.0.0",
-  "description": "A collection of various JavaScript tools and functions for working with MongoDB ",
+  "description": "A collection of various JavaScript tools and functions for working with MongoDB",
   "keywords": ["mongodb"],
   "author": "Tedde Lundgren <mail@tedeh.net> (http://tedeh.net)",
   "maintainers": "Tedde Lundgren <mail@tedeh.net> (http://tedeh.net)",
