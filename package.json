@@ -1,0 +1,26 @@
+{
+  "name": "mongodb-tools",
+  "version": "1.0.0",
+  "description": "A collection of various JavaScript tools and functions for working with MongoDB ",
+  "keywords": ["mongodb"],
+  "author": "Tedde Lundgren <mail@tedeh.net> (http://tedeh.net)",
+  "maintainers": "Tedde Lundgren <mail@tedeh.net> (http://tedeh.net)",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tedeh/mongodb-tools.git"
+  },
+  "homepage": "http://mongodb-tools.tedeh.net",
+  "bugs": "https://github.com/tedeh/mongodb-tools/issues",
+  "main": "index",
+  "engines": {
+    "node": ">= 0.4.0"
+  },
+  "scripts": { "test": "make test" },
+  "dependencies": {
+    "underscore": "*"
+  },
+  "devDependencies": {
+    "should": "*",
+    "mocha": "*"
+  }
+}
